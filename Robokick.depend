@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1557456246 source:d:\project\robokick\main.cpp
+	<iostream>
+	"TextObject.h"
+	"charactor.h"
+	"Ball.h"
+	"commonfunction.h"
+
+1557321831 source:d:\project\robokick\draw.cpp
+	"CONSTANT.h"
+	"Draw.h"
+	<string>
+	<string.h>
+
+1557321831 d:\project\robokick\draw.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1556962229 d:\project\robokick\constant.h
+	<SDL.h>
+	<SDL_image.h>
+
+1557429276 source:d:\project\robokick\charactor.cpp
+	"charactor.h"
+
+1557372243 d:\project\robokick\charactor.h
+	"BaseObject.h"
+	"commonfunction.h"
+	<iostream>
+
+1557550030 source:d:\project\robokick\ball.cpp
+	"Ball.h"
+
+1557421995 d:\project\robokick\ball.h
+	"BaseObject.h"
+	"charactor.h"
+	<cmath>
+	<string>
+	"commonfunction.h"
+
+1555599877 d:\project\robokick\map_management.h
+	"charactor.h"
+	"Ball.h"
+
+1556200168 d:\project\robokick\charactor2.h
+	"Draw.h"
+	"CONSTANT.h"
+
+1556199465 source:d:\project\robokick\charactor2.cpp
+	"charactor2.h"
+
+1557426283 source:d:\project\robokick\textobject.cpp
+	"TextObject.h"
+
+1575385700 d:\project\robokick\textobject.h
+	<string>
+	<iostream>
+	<string.h>
+	<SDL_image.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"commonfunction.h"
+	"Ball.h"
+	<string>
+	<string.h>
+	<windows.h>
+
+1575385976 d:\project\robokick\baseobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_tff.h>
+	<string>
+	<iostream>
+
+1557425897 d:\project\robokick\commonfunction.h
+	<SDL.h>
+	<SDL_image.h>
+
+1557426283 source:d:\project\robokick\baseobject.cpp
+	"commonfunction.h"
+	"BaseObject.h"
+	<string>
+	<string.h>
+
